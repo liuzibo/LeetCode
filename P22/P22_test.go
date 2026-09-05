@@ -152,5 +152,3 @@ func sortedEqual(a, b []string) bool {
 	}
 	return true
 }
-
-
